@@ -1,0 +1,44 @@
+.image{
+    border: 8px solid red;
+    height: 100px;
+    width: 200px;
+}
+
+div{
+    display: inline-block;
+}
+
+.heading{
+    display: inline-block;
+    text-align:start;
+    border: 10px solid blue;
+    padding-top: 60px;
+}
+
+ul{
+    border: 5px solid green;
+    text-align: left;
+    padding-left: 500px;
+    padding-right: 500px;
+    right: 100px;
+}
+
+.main{
+    border: 10px solid;
+     display: inline-block;
+      padding: 500px 0 0 0;
+      text-align: start;
+}
+
+.maindiv{
+    text-align: start;
+     border: 10px solid;
+      text-align: center;
+       padding: 0 0 0 0;
+       display: inline-block ;
+}
+
+.heading1{
+    padding: 200px 0 200px 0;
+    text-align: ;
+}
